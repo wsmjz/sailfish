@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsmjz/sailfish.git"
+  },
+  "keywords": [
+    "react",
+    "admin",
+    "cli"
+  ],
   "author": "",
   "license": "ISC",
   "bin": {

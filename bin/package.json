@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@ping-home/rice": "^1.0.1"
+  },
+  "dependencies": {
+    "@ping-home/rice": "^1.0.1"
+  }
+}

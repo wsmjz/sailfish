@@ -1,6 +1,6 @@
 {
   "name": "@ping-home/sailfish",
-  "version": "0.0.1",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,12 +16,12 @@
     "cli"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "sailfish": "./bin/sailfish.js"
   },
-  "devDependencies": {
-    "@ping-home/rice": "^1.0.1",
+  "dependencies": {
+    "@ping-home/rice": "latest",
     "lodash": "^4.17.21",
     "moment": "^2.29.1"
   }

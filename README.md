@@ -1,5 +1,6 @@
 # 文档
 使用 `npm publish --access public` 发布
+需要通过webpack 打包资源后发布到npm后 才能被其他引用
 - 说明
    - react版本：18.0.0
    - react-router版本
